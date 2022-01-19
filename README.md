@@ -30,11 +30,13 @@
 
 ![Dashboard](https://github.com/Sarishma21/login2explore/blob/main/Screenshots/Dashboard.jpeg)
 
-![Index Page]()
+![Index Page](https://github.com/Sarishma21/login2explore/blob/main/Screenshots/Index.png)
 
-![Visualize]()
+![Web Page](https://github.com/Sarishma21/login2explore/blob/main/Screenshots/WebPage.jpeg)
 
-![Dashboard]()
+![Server Page](https://github.com/Sarishma21/login2explore/blob/main/Screenshots/Server.jpeg)
 
-![Index Page]()
+![Tokens](https://github.com/Sarishma21/login2explore/blob/main/Screenshots/Tokens.jpeg)
+
+
 
