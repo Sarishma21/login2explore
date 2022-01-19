@@ -1,6 +1,5 @@
 # JsonPowerDB 
-###JPDB webForm
-### You can fork it. But before that, please give a star (It's totally free).
+### JPDB WebForm.You can fork it. But before that, please give a star (It's totally free).
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
 
