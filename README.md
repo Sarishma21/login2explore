@@ -28,7 +28,7 @@
 
 ### Screenshots:
 
-![Dashboard]()
+![Dashboard](https://github.com/Sarishma21/login2explore/blob/main/Screenshots/Dashboard.jpeg)
 
 ![Index Page]()
 
